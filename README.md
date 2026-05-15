@@ -12,10 +12,13 @@ Writing — Technical blog posts, developer-facing documentation, SEO
 Projects
 OGDC Equity Analysis Platform 
 End-to-end Python pipeline over 6+ years of PSX stock data — GARCH volatility modelling, Bollinger Band backtesting, and multi-source sentiment analysis across 14 sources. React.js frontend with Recharts. Live dashboard: [https://ogdc-project.vercel.app/]
+
 DevMetrics
 Self-hosted developer productivity dashboard built on .NET 8. Tracks Git activity across local repositories with a live WebSocket dashboard, background scheduler, and a REST API documented via OpenAPI 3.0.
+
 Floro Chatbot
 Bilingual NLP chatbot handling queries in English and Urdu.
+
 Remote Health Monitoring System
 Java desktop application with Twilio API integration. Handled MySQL schema design, vitals visualisation, and PDF generation.
 
