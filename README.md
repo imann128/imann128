@@ -1,5 +1,5 @@
-Hi, I'm Iman 
-Data Science student at NUST SEECS, Islamabad.
+Hi, I'm Iman, 
+a Data Science student at NUST SEECS, Islamabad.
 I build things at the intersection of engineering, data, and developer tooling.
 
 What I work with
