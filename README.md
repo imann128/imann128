@@ -18,7 +18,7 @@ I build things at the intersection of engineering, data, and developer tooling.
 
 ## Projects
 
-**OGDC Equity Analysis Platform**  
+**[OGDC Equity Analysis Platform](https://github.com/imann128/ogdc-project)**  
 End-to-end Python pipeline over 6+ years of PSX stock data — GARCH volatility modelling, Bollinger Band backtesting, and multi-source sentiment analysis across 14 sources. React.js frontend with Recharts. Live dashboard: [ogdc-project.vercel.app](https://ogdc-project.vercel.app/)
 
 **[DevMetrics](https://github.com/imann128/DevMetrics)**  
