@@ -2,15 +2,14 @@
 
 Data Science student at **NUST SEECS**, Islamabad.
 
-I build things at the intersection of engineering, data, and developer tooling.
+I like building things that give me creative freedom and have a unique edge.
 
 ---
 
 ## What I work with
 
 **Languages** — Python, JavaScript / React.js, C# / .NET, Java  
-**APIs & Data** — REST APIs, JSON, OpenAPI specs, Apify, OpenWeather  
-**Tools** — Claude Code, Git / GitHub, Flask, Recharts  
+**APIs & Data** — REST APIs, JSON, OpenAPI specs, Apify
 **Automation** — Web scraping pipelines, scripting, CI/CD concepts  
 **Writing** — Technical blog posts, developer-facing documentation, SEO
 
