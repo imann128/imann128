@@ -17,17 +17,20 @@ I like building things that give me creative freedom and have a unique edge.
 
 ## Projects
 
+**[RelayCore](https://github.com/imann128/RelayCore)**
+A webhook gateway that receives HTTP callbacks from any source (GitHub, Google Calendar, HTML forms), deduplicates them, applies routing rules, transforms payloads, and forwards to destinations (Slack, Discord, APIs) with reliable retry logic.
+
+**[DevMetrics](https://github.com/imann128/DevMetrics)**  
+A developer productivity dashboard that tracks local Git activity in real time — built with .NET 8, Clean Architecture, SignalR, and EF Core.
+
+**[iot-anomaly-pipeline](https://github.com/imann128/iot-anomaly-detection)**
+Time-series anomaly detection pipeline benchmarking Isolation Forest, Z-Score, and LSTM Autoencoder on NASA SMAP/MSL, with point-adjusted F1 evaluation, optimized LSTM caching, PostgreSQL storage, FastAPI, and a Streamlit dashboard.
+
 **[OGDC Equity Analysis Platform](https://github.com/imann128/ogdc-project)**  
 End-to-end Python pipeline over 6+ years of PSX stock data — GARCH volatility modelling, Bollinger Band backtesting, and multi-source sentiment analysis across 14 sources. React.js frontend with Recharts. Live dashboard: [ogdc-project.vercel.app](https://ogdc-project.vercel.app/)
 
-**[DevMetrics](https://github.com/imann128/DevMetrics)**  
-Self-hosted developer productivity dashboard built on .NET 8. Tracks Git activity across local repositories with a live WebSocket dashboard, background scheduler, and a REST API documented via OpenAPI 3.0.
-
 **[Floro Chatbot](https://github.com/imann128/Floro-Chatbot)**  
 Bilingual NLP chatbot handling queries in English and Urdu.
-
-**[Remote Health Monitoring System](https://github.com/imann128/RemoteHealthMonitoringSystem)**  
-Java desktop application with Twilio API integration. Handled MySQL schema design, vitals visualisation, and PDF generation.
 
 ---
 
