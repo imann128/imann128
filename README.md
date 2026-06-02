@@ -1,6 +1,6 @@
 # Hi, I'm Iman
 
-Data Science student at **NUST SEECS**, Islamabad.
+Data Science student
 
 I like building things that give me creative freedom and have a unique edge.
 
