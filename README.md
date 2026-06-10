@@ -4,6 +4,8 @@ Data Science student
 
 I like building things that give me creative freedom and have a unique edge.
 
+Portfolio: https://imann128.github.io/
+
 ---
 
 ## What I work with
