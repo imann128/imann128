@@ -4,8 +4,6 @@ Data Science student
 
 I like building things that give me creative freedom and have a unique edge.
 
-Portfolio: https://imann128.github.io/
-
 ---
 
 ## What I work with
@@ -42,6 +40,3 @@ Bilingual NLP chatbot handling queries in English and Urdu.
 
 ---
 
-## Let's connect
-
-[LinkedIn](https://www.linkedin.com/in/iman-naeem-52a0a8322)
