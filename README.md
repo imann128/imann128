@@ -1,15 +1,19 @@
-```
-$ whoami
+**`$ whoami`**
+```yaml
 Iman Naeem — Data Science student, full-stack & systems engineer
+```
 
-$ cat focus.txt
+**`$ cat focus.txt`**
+```yaml
 Correctness at the boundary:
   pipelines that can't leak the future into the past
   webhooks that can't double-fire
   backtests that don't lie
+```
 
-$ cat links.txt
-portfolio  → https://imann128.github.io/
+**`$ cat links.txt`**
+```yaml
+portfolio: https://imann128.github.io/
 ```
 
 ---
@@ -37,6 +41,6 @@ portfolio  → https://imann128.github.io/
 
 **[iot-anomaly-pipeline](https://github.com/imann128/iot-anomaly-pipeline)**: Anomaly detection on NASA SMAP/MSL telemetry, benchmarking Isolation Forest, rolling z-score, and an LSTM autoencoder against labelled ground truth. FastAPI + PostgreSQL, Streamlit dashboard.
 
-**[DevMetrics](https://github.com/imann128/DevMetrics)**: Self-hosted Git telemetry service built with .NET 8, Clean Architecture, and SignalR, streaming commit activity in real time.
+**[DevMetrics](https://github.com/imann128/DevMetrics)**: A user-analytics-focused project. Self-hosted Git telemetry service built with .NET 8, Clean Architecture, and SignalR, streaming commit activity in real time.
 
 **[Floro Chatbot](https://github.com/imann128/Floro-Chatbot)**: Bilingual NLP chatbot handling queries in English and Urdu.
