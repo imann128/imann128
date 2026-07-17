@@ -12,9 +12,10 @@ Correctness at the boundary:
 ```
 
 **`$ cat links.txt`**
-```yaml
-portfolio: https://imann128.github.io/
-```
+ 
+`portfolio:` [https://imann128.github.io/](https://imann128.github.io/)
+ 
+---
 
 ---
 
