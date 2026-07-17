@@ -17,8 +17,6 @@ Correctness at the boundary:
  
 ---
 
----
-
 ### What I work with
 
 | Category | Stack |
