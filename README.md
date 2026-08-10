@@ -30,7 +30,8 @@ Correctness at the boundary:
 
 ### Projects
 
-**[tsauditor](https://github.com/imann128/tsauditor)**: Time-series data-quality auditor, live on [PyPI](https://pypi.org/project/tsauditor/). Detects irregular timestamp frequency, non-stationarity, and feature leakage before a model ever gets trained on the data. Featured in [Data Science Weekly, Issue 657](https://datascienceweekly.substack.com/p/data-science-weekly-issue-657).
+**[tsauditor](https://github.com/imann128/tsauditor)**: Time-series data-quality auditor, live on [PyPI](https://pypi.org/project/tsauditor/). Detects irregular timestamp frequency, non-stationarity, and feature leakage before a model ever gets trained on the data. Featured in [PyCoder's Weekly Issue #745](https://pycoders.com/issues/745)
+[Data Science Weekly, Issue 657](https://datascienceweekly.substack.com/p/data-science-weekly-issue-657).
 
 **[statsmodels](https://github.com/statsmodels/statsmodels/pull/9811)**: Merged PR #9811, fixed a Hannan-Rissanen estimator constraint blocking seasonal-differencing-only ARIMA models, closing an issue open since 2021.
 
