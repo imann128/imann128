@@ -37,6 +37,8 @@ Correctness at the boundary:
 
 **[RelayCore](https://github.com/imann128/RelayCore)**: Webhook gateway with at-least-once delivery, Redis-backed idempotent dedup, JSONPath fan-out routing, HMAC-SHA256 verification, an SSRF guard, and a dead-letter queue for failed deliveries.
 
+**[ReAct-Agent-From-Scratch](https://github.com/imann128/react-agent-from-scratch)**: A ReAct (Reasoning + Acting) agent framework built from scratch in Python. It has no LangChain or agent SDK. It implements the Thought/Action/Observation loop, tool dispatch, and a resumable state machine as plain, testable code. Supports human-in-the-loop approval gates, retry/backoff on LLM failures, execution tracing, and pluggable providers.
+
 **[OGDC Equity Analysis Platform](https://github.com/imann128/OGDC)**: End-to-end pipeline over 6+ years of PSX stock data, GARCH volatility modelling, Bollinger Band backtesting, and sentiment analysis across 14 sources, with strict train/test discipline to keep the backtests honest. React.js frontend with Recharts. Live: [ogdc-project.vercel.app](https://ogdc-project.vercel.app)
 
 **[iot-anomaly-pipeline](https://github.com/imann128/iot-anomaly-pipeline)**: Anomaly detection on NASA SMAP/MSL telemetry, benchmarking Isolation Forest, rolling z-score, and an LSTM autoencoder against labelled ground truth. FastAPI + PostgreSQL, Streamlit dashboard.
