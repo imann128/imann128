@@ -21,7 +21,7 @@ Correctness at the boundary:
 
 | Category | Stack |
 |---|---|
-| Languages | Python, JavaScript / React.js, C# / .NET, Java |
+| Languages | Python, JavaScript / React.js, C# / .NET |
 | APIs & Data | REST APIs, JSON, OpenAPI specs, Apify |
 | Automation | Web scraping pipelines, scripting, CI/CD concepts |
 | Writing | Technical blog posts, developer-facing documentation |
